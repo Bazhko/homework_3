@@ -5,7 +5,7 @@ body {
 }
 @font-face {
 	font-family: Lato;
-	src: url("../fonts/Lato-Regular.ttf");
+	src: url("../fonts/lato-radegular.ttf");
 	font-family: Big John;
 	src: url("../fonts/big john.otf");
 	font-family: Slim Joe;
@@ -22,10 +22,9 @@ body {
 	width: 100%;
 	height: 650px;
 }
-a {
-	text-decoration: none;
-}
+a, 
 a:visited {
+	text-decoration: none;
 	color: #ffffff;
 }
 .main-menu {
@@ -55,12 +54,14 @@ h1.header-portfolio {
 	font-size: 44px;
 	color: white;
 	width: 933px;
+	text-transform: uppercase;
 	margin: 140px auto auto 491px;
 }
 h2.header-portfolio {
 	font-family: slim joe, sans-serif;
 	font-size: 29px;
 	color: white;
+	text-transform: uppercase;
 	width: 639px;
 	margin: 23px auto auto 623px;
 }

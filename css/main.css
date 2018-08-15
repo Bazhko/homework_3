@@ -8,8 +8,8 @@ body {
 	src: url("../fonts/lato-radegular.ttf");
 	font-family: big john;
 	src: url("../fonts/big john.otf");
-	font-family: slim joe;
-	src: url("../fonts/slim joe.otf");
+	font-family: Slim Joe;
+	src: url("../fonts/slimjoe.otf");
 }
 .headerbackgroundimg {
 	width: 100%;
@@ -58,7 +58,7 @@ h1.header-portfolio {
 	margin: 140px auto auto 491px;
 }
 h2.header-portfolio {
-	font-family: slim joe, sans-serif;
+	font-family: Slim Joe, sans-serif;
 	font-size: 29px;
 	color: white;
 	text-transform: uppercase;

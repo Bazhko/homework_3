@@ -3,6 +3,14 @@ body {
 	padding: 0;
 	margin: 0;	
 }
+@font-face {
+	font-family: Lato;
+	src: url("../fonts/Lato-Regular.ttf");
+	font-family: Big John;
+	src: url("../fonts/big john.otf");
+	font-family: Slim Joe;
+	src: url("../fonts/slim joe.otf");
+}
 .headerbackgroundimg {
 	width: 100%;
 	height: 650px;
@@ -20,43 +28,43 @@ a {
 a:visited {
 	color: #ffffff;
 }
-.menu {
+.meain-menu {
 	margin: 36px 0 0 390px;
 	padding: 0;
 	list-style: none;
 	display: -webkit-inline-flex;
 	display: inline-flex;
-	color: white;
+	color: #f2f3f3;
 	font-family: Lato, sans-serif;
 	font-weight: bold;
 	font-size: 16px;
 	height: 99px;
 }
-.menu li {
+.meain-menu li {
 	margin-right: 54px;
 }
-.menu ul {
+.meain-menu ul {
 	margin-left: 403px;
 }
 .separator {
 	font-weight: 100;
 	opacity: 0.3;
 }
-h1.portfolio {
+h1.header-portfolio {
 	font-family: big john, sans-serif;
 	font-size: 44px;
 	color: white;
 	width: 933px;
 	margin: 140px auto auto 491px;
 }
-h2.portfolio {
+h2.header-portfolio {
 	font-family: slim joe, sans-serif;
 	font-size: 29px;
 	color: white;
 	width: 639px;
 	margin: 23px auto auto 623px;
 }
-input.mesbutton{
+input.mestravaux-button {
 	font-family: Lato, sans-serif;
 	font-weight: bold;
 	border-width: 2px;

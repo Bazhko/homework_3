@@ -6,9 +6,9 @@ body {
 @font-face {
 	font-family: Lato;
 	src: url("../fonts/lato-radegular.ttf");
-	font-family: Big John;
+	font-family: big john;
 	src: url("../fonts/big john.otf");
-	font-family: Slim Joe;
+	font-family: slim joe;
 	src: url("../fonts/slim joe.otf");
 }
 .headerbackgroundimg {
@@ -88,7 +88,7 @@ div.contacter {
 	height: 566px;
 }
 h3.contacter {
-	font-family: Big John, Myriad Pro, sans-serif;
+	font-family: big john, Myriad Pro, sans-serif;
 	font-size: 26px;
 	color: #48bf72;
 	text-transform: uppercase;

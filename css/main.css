@@ -7,8 +7,12 @@ body {
 @font-face {
 	font-family: Lato;
 	src: url("../fonts/lato-radegular.ttf");
+}
+@font-face {
 	font-family: Big John;
 	src: url("../fonts/bigjohn.otf");
+}
+@font-face {
 	font-family: Slim Joe;
 	src: url("../fonts/slimjoe.otf");
 }
